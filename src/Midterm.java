@@ -9,6 +9,9 @@ public class Midterm {
 		
 		System.out.println("In Kai-Yun's small band of trusty monkeys a new recruit"
 				+ "began to grow increasingly discontent with the glory of the great Kai-Yun.");
+		
+		System.out.println("During the discontent there was a woman named Catherine. She met a princess+"
+				+ "named Tondaleyo. She said when she has a daughter she will name her Tondaleya");
 	}
 
 }
