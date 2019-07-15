@@ -16,6 +16,9 @@ public class Midterm {
 		System.out.println("During the meeting, Tondaleyo told Catherine that her daughter"
 				+ "will be the one to end the long night."
 				+ "This surprised Catherine because she was still single.");
+		
+		System.out.println("Years into the future as the former new recruit, named Distructor,"
+				+ " became a man, married and fathered a daughter named Tondaleya.");
 	}
 
 }
