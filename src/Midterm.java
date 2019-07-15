@@ -5,9 +5,9 @@ public class Midterm {
 		
 		System.out.println("Once upon a time in the mystical land of Shangrila "
 				+ "there dwelt an immortal named Kai-Yun and "
-				+ "his trusty band of ninja monkeys.");
+				+ "his trusty band of students.");
 		
-		System.out.println("In Kai-Yun's small band of trusty monkeys a new recruit"
+		System.out.println("In Kai-Yun's small band of trusty students a new recruit"
 				+ "began to grow increasingly discontent with the glory of the great Kai-Yun.");
 		
 		System.out.println("During the discontent there was a woman named Catherine. She met a princess"
