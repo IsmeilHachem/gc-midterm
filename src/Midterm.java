@@ -19,6 +19,9 @@ public class Midterm {
 		
 		System.out.println("Years into the future as the former new recruit, named Distructor,"
 				+ " became a man, married and fathered a daughter named Tondaleya.");
+		
+		System.out.println("As Tondaleya grew older she finally asked her father, Why is your name Distructor?"
+				+ "after Tondaleya asked that question she was never heard from again");
 	}
 
 }
